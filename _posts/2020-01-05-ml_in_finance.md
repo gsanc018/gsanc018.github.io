@@ -5,22 +5,22 @@ Instead of sampling with respect to a fixed amount of time passed, we could coul
 
 ## Financial Data Structures
 
-****Tick, Volume, Dollar Bars****
+**Tick, Volume, Dollar Bars**
 
-****Informations Bars****
+**Informations Bars**
 
 
 ## Event Based Sampling
 
-****Strucutural Breaks****
+**Strucutural Breaks**
 
 CUSUM Tests
 
-****Entropy Feautures****
+**Entropy Feautures**
 
 Shannons Entropy
 
-****Microstructure Features****
+**Microstructure Features**
 
 Price Sequences, Strategic Trade Models, Sequential Trade Models
 
@@ -29,6 +29,6 @@ Price Sequences, Strategic Trade Models, Sequential Trade Models
 
 **Triple Barrier Method**
 
-**Meta - Labeling**
+**Meta-Labeling**
 
 **Sample Weights**
