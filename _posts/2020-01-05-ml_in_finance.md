@@ -8,13 +8,11 @@ Instead of sampling with respect to a fixed amount of time passed, we could coul
 
 ## Financial Data Structures
 
-### Modern Bars
-
 ****Tick, Volume, Dollar Bars****
 
 ****Informations Bars****
 
-### Event Based Sampling**
+## Event Based Sampling**
 
 ****Strucutural Breaks****
 
@@ -28,4 +26,9 @@ Shannons Entropy
 
 Price Sequences, Strategic Trade Models, Sequential Trade Models
 
-### Labeling
+## Labeling
+
+****Triple Barrier Method****
+
+
+****Sample Weights****
