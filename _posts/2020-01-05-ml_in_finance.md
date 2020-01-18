@@ -27,8 +27,8 @@ Price Sequences, Strategic Trade Models, Sequential Trade Models
 
 ## Labeling
 
-****Triple Barrier Method****
+**Triple Barrier Method**
 
-**** Meta - Labeling ****
+**Meta - Labeling**
 
-****Sample Weights****
+**Sample Weights**
