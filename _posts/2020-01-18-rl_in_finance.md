@@ -1,1 +1,3 @@
-#Reinforcement Learning in Finance
+# Reinforcement Learning in Finance
+
+## Gordon Ritter
