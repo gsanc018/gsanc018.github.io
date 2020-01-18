@@ -1,3 +1,6 @@
 # Deep Learning in Finance
 
-This is my first markdown post
+## Temporal Convolutional Models
+
+
+## QuantGANs
