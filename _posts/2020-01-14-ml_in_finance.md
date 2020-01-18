@@ -1,4 +1,4 @@
-# Deep Learning in Finance
+# Machine Learning in Finance
 
 ## Nice to meet you
 
