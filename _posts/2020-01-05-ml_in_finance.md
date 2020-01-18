@@ -1,7 +1,7 @@
 # Machine Learning in Finance
 
 
-** Modern Bars **
+**Modern Bars**
 
 Every transaction of a financial security defines what is known as a tick. For each tick we record the price, volume, and the time of the transaction. It is common in finance to sample from this tick data whenever a fixed amount of time has passed. For example, long term investors often sample data in 1 day intervals while high frequency traders look at data sampled every minute or even seconds. Data sampled this way is referred to as time bars and is the most common used data when analyzing prices. Each bar contains the price of the first tick, last tick, and the maximum and minimum price for ticks during that time period, known as Open, High, Low, Close (OHLC) data, and the sum of the volume of all the ticks considered in the bar.
 
@@ -11,7 +11,7 @@ Instead of sampling with respect to a fixed amount of time passed, we could coul
 
 ## Financial Data Structures
 
-** Event Based Sampling **
+**Event Based Sampling**
 
 ****Strucutural Breaks
 
@@ -25,7 +25,7 @@ Shannons Entropy
 
 Price Sequences, Strategic Trade Models, Sequential Trade Models
 
-** Labeling **
+**Labeling**
 
 ## The Dangers of Backtesting 
 
@@ -33,10 +33,10 @@ Price Sequences, Strategic Trade Models, Sequential Trade Models
 
 ### Scenario Simulations
 
-**Walkforward Methods
+**Walkforward Methods**
 
-**The Cross Validation Method
+**The Cross Validation Method**
 
-**Combinatorial Purged CV Method
+**Combinatorial Purged CV Method**
 
 
